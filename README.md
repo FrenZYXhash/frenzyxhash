@@ -1,5 +1,4 @@
 # Hi there!
----
 
 Here are some facts about me:
 - I am learning Python
